@@ -1,8 +1,8 @@
 streamlit==1.36.0
+openvino==2024.4.0
+Python-IO==0.3
 pillow==10.4.0
 numpy==1.26.4
-Python-IO==0.3
-openvino==2024.0.0
 matplotlib==3.9.1
 opencv-python==4.9.0.80
 tempfile2==0.1.2
